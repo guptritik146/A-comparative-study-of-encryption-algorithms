@@ -1,1 +1,2 @@
 # A-comparative-study-of-encryption-algorithms
+The project presents a comparative study of various industry standard encryption algrithms. It is more like a research project with the same work done on C and Java. The project takes various industry standard encryption algorithms like AES, DES,RSA and Blowfish and checks the efficiency of each algorithm on the basis of run-time and avalanche effect.
